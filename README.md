@@ -19,7 +19,7 @@ Please follow this template below when submitting an issue. This will help me tr
 3) Has this happened once? or multiple times? please specify:
 4) Level of priority you feel is needed to take action and get this issue resolved 1 being the lowest 5 being the highest:
 5) Your discord name (please include #0000 numbers) example: TrueSunnyD#9925:
-6) Please add pictures of any F8 errors (if any) when bug is happening
+6) Please add pictures of any F8 errors (if any) when bug is happening or links if you have a video of it.
 
 ```
 
