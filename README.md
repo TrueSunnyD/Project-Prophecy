@@ -1,7 +1,10 @@
-# Project-Prophecy
+# Project-Prophecy Issue Tracker
+
+# How to submit an issue:
+1) Click on issues in near <> Code in the top left portion of the screen
+
 
 Please follow this template below when submitting an issue. This will help me track down these issues going on in the city faster. 
-
 # Template
 
 1) Please name the title with an [BUG] or [ENHANCEMENT] depending on what you're submitting for. 
