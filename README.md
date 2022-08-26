@@ -2,7 +2,9 @@
 
 # How to submit an issue:
 1) Click on issues in near <> Code in the top left portion of the screen
-
+2) Press on the green "New Issue" button on the right hand side. 
+3) Please annotate if it's a [BUG] or [ENHANCEMENT] in the title section.
+4) Once submitting the ticket (at the bottom of the screen)
 
 Please follow this template below when submitting an issue. This will help me track down these issues going on in the city faster. 
 # Template
