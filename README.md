@@ -1,4 +1,4 @@
-# Project-Prophecy Issue Tracker
+# Project-Prophecy Issue/ Enhancement Tracker
 
 # How to submit an issue:
 1) Click on issues in near <> Code in the top left portion of the screen
