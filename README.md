@@ -7,11 +7,10 @@
 4) Make sure to press (LABELS) on the right hand side of the screen and specify again if it's an enhancement or bug
 5) Once submitting the ticket (at the bottom of the screen) it will be posted for me to see.
 
-Please follow this template below when submitting an issue. This will help me track down these issues going on in the city faster. 
+#Please follow this template below when submitting an issue. This will help me track down these issues going on in the city faster. 
+
 # Template
-
 1) Please name the title with an [BUG] or [ENHANCEMENT] depending on what you're submitting for. 
-
 2) Description Template:
 ```
 1) [BUG] or [EHNANCEMENT] please specify: 
