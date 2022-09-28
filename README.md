@@ -26,3 +26,4 @@ Please follow this template below when submitting an issue. This will help me tr
 All issues will be addressed immediately and will be fixed as soon as possible. 
 
 Thank you all for the continued support and help on this! <3
+
